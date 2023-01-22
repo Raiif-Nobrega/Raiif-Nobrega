@@ -2,8 +2,9 @@
 
  <div>
    <a href="https://github.com/Raiif-Nobrega">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raiif-Nobrega&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raiif-Nobrega&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Raiif-Nobrega&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
+
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raiif-Nobrega&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 <div style="display: inline_block"><br>
@@ -14,7 +15,7 @@
  
  <br>
  
-  ### Iniciando na programação - Vamo que vamo!!!🚀
+  ### >_Iniciando na programação - Vamo que vamo!!!_>🚀
  
 <div> 
 
