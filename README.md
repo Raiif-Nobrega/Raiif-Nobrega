@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil ✌😎
+## Bem-vindo(a) ao meu perfil! ✌😎
 
  <div>
    <a href="https://github.com/Raiif-Nobrega">
@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Iniciando na programação - Vamo que vamo!!!
+  ### Iniciando na programação - Vamo que vamo!!!🚀
  
 <div> 
 
