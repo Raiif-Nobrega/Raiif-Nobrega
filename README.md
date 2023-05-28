@@ -15,7 +15,7 @@
  
  <br>
  
-  ### >_Iniciando na programação - Vamo que vamo!!!_>🚀
+  ### <_Iniciando na programação - Vamo que vamo!!!_>🚀
  
 <div> 
 
